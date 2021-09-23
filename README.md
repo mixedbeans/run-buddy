@@ -2,6 +2,7 @@
 
 ## Purpose
 A website that offers fitness training services. 
+(built for coding bootcamp)
 
 ## Built With
 * HTML
@@ -11,6 +12,6 @@ A website that offers fitness training services.
 https://mixedbeans.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Spencer Biehn
 
 ### ©️2019 Run Buddy, Inc 
