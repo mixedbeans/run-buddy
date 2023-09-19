@@ -12,6 +12,6 @@ A website that offers fitness training services.
 https://mixedbeans.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Spencer Biehn
+Made with ❤️ by Spencer Rosewood
 
 ### ©️2019 Run Buddy, Inc 
